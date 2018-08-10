@@ -1,1 +1,1 @@
-FROM coredns/coredns:1.2.0
+FROM coredns/coredns:1.1.3
